@@ -55,6 +55,11 @@
   border-radius: 30px;
   color: white;
   font-family: sans-serif;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: violet;
 }
 
 .btn-yellow {
